@@ -2,6 +2,7 @@
 
 
 Description
+
 The CrimeMonitoring App is a "real-time platform for tracking and reporting criminal activities in urban areas". It aims to enhance public safety and awareness by leveraging technology for faster communication and data visualization.
 
 Features
